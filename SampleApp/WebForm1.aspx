@@ -17,7 +17,9 @@
             <table class="auto-style1">
                 <tr>
                     <td>
-                        <asp:Label ID="Label1" runat="server" Text="This is the first title."></asp:Label>
+                        <asp:Label ID="Label1" runat="server" Text="This is the first title. This is the second title which is added to it."></asp:Label>
+                        <br/>
+                        <asp:Label ID="Labe2" runat="server" Text="This , this is a copy of the above line."></asp:Label>
                     </td>
                     <td>&nbsp;</td>
                 </tr>
